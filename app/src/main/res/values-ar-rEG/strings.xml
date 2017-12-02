@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="Toppings" translatable="false">إضافات</string>
+    <string name="total">المجموع</string>
+    <string name="order">الطلب</string>
+    <string name="Texthint">ادخل اسمك</string>
+    <string name="Chocolate">اضافة شكوكلاه = 2 جنيه</string>
+    <string name="Whippedcream">اضافة كريم = 1 جنيه</string>
+    <string name="javalessthanone">لايمكنك اختيار اقل من طلب</string>
+    <string name="javamoreThanOne">عشرة طلبات هو الحد الاقصي</string>
+    <string name="javaName">الاسم</string>
+    <string name="javawippedCream">اضافة كريم</string>
+    <string name="javaChocolate">اضافة شكولاته</string>
+    <string name="javaQuantity">عدد الطلبات</string>
+    <string name="javaTotal">المجموع</string>
+    <string name="javaThanks">شكرا جزيلا</string>
+    <string name="javaMessage1">نشكرم علي الزيارة ونتمني خدمتك مرة اخري</string>
+    <string name="javaMessage2">لتوصيل الطلبات للمزنل كلمنا علي 19777</string>
+    <string name="javaMailSubject">"فاتورة شراء "</string>
+</resources>

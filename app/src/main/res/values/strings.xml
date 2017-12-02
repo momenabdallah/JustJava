@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="Toppings">Toppings</string>
+    <string name="Whippedcream">Whipped cream $1 per each</string>
+    <string name="order">ORDER</string>
+    <string name="total">$0</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="increment">+</string>
+    <string name="Quantatiy">0</string>
+    <string name="decrement">-</string>
+    <string name="quantity_text_view">Quantity!</string>
+    <string name="Chocolate">Chocolate $2 per each</string>
+    <string name="Texthint">Name</string>
+    <string name="javalessthanone">You can\'t have less that one</string>
+    <string name="javamoreThanOne">You can\'t have more than ten</string>
+    <string name="javaName">Name:</string>
+    <string name="javawippedCream">\nAdd whipped? </string>
+    <string name="javaChocolate">\nAdd Chocolate? </string>
+    <string name="javaQuantity">\nQuantity:</string>
+    <string name="javaTotal">\nTotal: $</string>
+    <string name="javaThanks">\nThanks;</string>
+    <string name="javaMessage1">\nLooking forward to serve you again</string>
+    <string name="javaMessage2">\nFor home delivery call as on 19777</string>
+    <string name="javaMailSubject">JustJava Coffee app Receipt</string>
+</resources>
